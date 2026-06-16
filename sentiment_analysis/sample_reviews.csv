@@ -1,0 +1,11 @@
+review,sentiment
+"The food was amazing and the staff were friendly",Positive
+"I hated the service and the food was cold",Negative
+"The movie was okay and average",Neutral
+"Absolutely loved the experience",Positive
+"The product quality was terrible",Negative
+"It was neither good nor bad",Neutral
+"Fantastic atmosphere and delicious meals",Positive
+"Worst app experience ever",Negative
+"The service was acceptable",Neutral
+"I am very happy with this purchase",Positive
